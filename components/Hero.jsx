@@ -4,12 +4,12 @@ export default function Hero(){
     return <div className={styles.hero}>
         <div className={styles.herotext}>
             <h1 className={styles.title}>Tech is the future <br /> &amp; my future!</h1>
-            <p className={styles.blurb}>The Software Development and Cyber Security indostries are my future-proof <br /> dream career, and the investment is a good bet.</p>
+            <p className={styles.blurb}>The Software Development and Cyber Security industries are my future.</p>
             <div className={styles.credentials}>
                 <span className={styles.credentialslabel}>Credentials</span>
                 <ul className={styles.credentialslist}>
                     <li>
-                        <span className={styles.credentialname}>Cyber Security Specialty</span> 
+                        <span className={styles.credentialname}>Cyber Security Analyst</span> 
                         <span className={styles.credentialdate}>Coursera Google certificate - Ongoing</span>
                     </li>
                     <li>
